@@ -21,7 +21,7 @@ Questo progetto è un'applicazione Python progettata per unire, analizzare e ela
 1. **Clona il repository**:
 
    ```bash
-   git clone https://github.com/tuo-username/csv-merger-analyzer.git
+   git clone https://github.com/SubSKesh/CSV_AQP_REPORTER.git
    cd csv-merger-analyzer
    ```
 
