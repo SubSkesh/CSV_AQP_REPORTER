@@ -22,7 +22,7 @@ Questo progetto è un'applicazione Python progettata per unire, analizzare e ela
 
    ```bash
    git clone https://github.com/SubSKesh/CSV_AQP_REPORTER.git
-   cd csv-merger-analyzer
+   cd CSV_AQP_REPORTER
    ```
 
 2. **Installa le dipendenze**:
